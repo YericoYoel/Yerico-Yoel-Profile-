@@ -1,4 +1,3 @@
-# Yerico-Yoel-Profile-
 # Hi there, I'm Yerico Yoel Leonardo Moelyadi 👋
 
 An **Automotive & Robotics Engineering** student at **BINUS ASO School of Engineering** passionate about 3D mechanical design, embedded systems, vehicle dynamics, and intelligent automation. Driven by hands-on engineering, analytical problem solving, and building efficient hardware-software integration.
