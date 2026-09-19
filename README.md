@@ -48,7 +48,11 @@ An **Automotive & Robotics Engineering** student at **BINUS ASO School of Engine
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YericoYoel&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YericoYoel&layout=compact&theme=tokyonight)
+### 🧰 Most Used Languages
+![C++](https://img.shields.io/badge/C++-42%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-28%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-12%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
