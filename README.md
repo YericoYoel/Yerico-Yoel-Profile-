@@ -48,7 +48,7 @@ An **Automotive & Robotics Engineering** student at **BINUS ASO School of Engine
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YericoYoel&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YericoYoel&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YericoYoel&layout=compact&theme=tokyonight)
 
 ---
 
